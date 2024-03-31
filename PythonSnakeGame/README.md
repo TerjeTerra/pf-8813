@@ -7,6 +7,7 @@ I developed the game further as a teacher for my own students (who also programm
 In my spare time as a student of informatics at the University of Oslo, I continued refining the game.
 
 Feel free to use this project as a showcase and enjoy playing Snake!
+
 ## How to play
 Simply run the file 'main.py' with Python.
 
