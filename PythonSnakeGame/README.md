@@ -1,14 +1,12 @@
 # PythonSnakeGame
 
-Welcome to a classic game of Snake! This project started out as an assignment given by tutors in a course for teachers
-learning basic porgramming, only using Python Standard Library with Turtle as UI. We were to develop a game based on a given original code sample, which is 
-included in file originalSnakeGeeks.py and probably available here:
-https://www.geeksforgeeks.org/create-a-snake-game-using-turtle-in-python/
+Welcome to a classic game of Snake! This project started as a tutor-assigned task for teachers learning basic programming. 
+We used Python Standard Library with Turtle for UI. The original code sample can be found in originalSnakeGeeks.py, available here: https://www.geeksforgeeks.org/create-a-snake-game-using-turtle-in-python/
 
-I have further developed the game in many steps both as teacher for my own
-students (who in turn was challenged to program their own snake games) and
-as on my spare time as a student of informatics at the University of Oslo. 
+I developed the game further as a teacher for my own students (who also programmed their own snake games). 
+In my spare time as a student of informatics at the University of Oslo, I continued refining the game.
 
+Feel free to use this project as a showcase and enjoy playing Snake!
 ## How to play
 Simply run the file 'main.py' with Python.
 
